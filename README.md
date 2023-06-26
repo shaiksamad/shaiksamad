@@ -19,7 +19,7 @@ I'm a passionate backend developer with a strong interest in building scalable w
 - [Vyxal](https://github.com/Vyxal/Vyxal/issues/1743): My first contribution.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shaiksamad/)
+- LinkedIn: [@shaiksamad](https://www.linkedin.com/in/shaiksamad/)
 - Email: [shaiksamad.dev@gmail.com](mailto:shaiksamad.dev@example.com)
 
 
