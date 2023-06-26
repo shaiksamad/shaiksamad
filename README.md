@@ -20,7 +20,7 @@ I'm a passionate backend developer with a strong interest in building scalable w
 
 ## Connect with Me
 - LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shaiksamad/)
-- Email: [youremail@example.com](mailto:shaiksamad.dev@example.com)
+- Email: [shaiksamad.dev@gmail.com](mailto:shaiksamad.dev@example.com)
 
 
 <!---
